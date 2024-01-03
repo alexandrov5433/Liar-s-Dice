@@ -1,6 +1,6 @@
 # Liar-s-Dice
 
-#### Video Demo: https://youtu.be/6UuMGKgPqck
+#### Video Demo: https://youtu.be/qbe6gfQ5mIw
 
 #### Description:
 Liar´s Dice is the final project of Aleksandar Darakev for the CS50p course. The implemented program is a game called Liar´s Dice. In this 
